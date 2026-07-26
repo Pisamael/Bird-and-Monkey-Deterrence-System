@@ -1,0 +1,9 @@
+# 1. Block EVERYTHING in this folder by default
+*
+
+# 2. ALLOW only these specific files (The '!' means DO NOT block)
+!.gitignore
+!standalone_turret_prototype.py
+!monkey.pt
+!monkey.usdz
+!human1.usdz
